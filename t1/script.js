@@ -1,0 +1,1 @@
+console.log("Trabalho 1 - Computação Gráfica");
